@@ -4,7 +4,9 @@ The application comes with three static/hard coded parcels that are lost on each
 
 # Running the app
 
-run npm install
+First install depedencies:
+
+  npm install
 
 Once dependencies are installed, run npm start
 
