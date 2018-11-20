@@ -1,10 +1,10 @@
 import parcel from '../src/api/models/parcel';
 
-var chai = require('chai')
-var expect = chai.expect;
-var should = chai.should();
-var chaiHttp = require("chai-http");
-var app = require('../src/app');
+const chai = require('chai')
+const expect = chai.expect;
+const should = chai.should();
+const chaiHttp = require("chai-http");
+const app = require('../src/app');
 
 chai.use(chaiHttp);
 

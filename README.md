@@ -1,4 +1,4 @@
-# Andella End Points Challenge #2
+# Andela End Points Challenge #2
 
 The application comes with three static/hard coded parcels that are lost on each call since we don't use database.
 
@@ -12,7 +12,7 @@ Once dependencies are installed, run npm start
 
 # Heroku Application
 
-<a href="https://andella-challenge-2.herokuapp.com/" target="_blank">https://andella-challenge-2.herokuapp.com/</a>
+<a href="https://andela-challenge-2.herokuapp.com/" target="_blank">https://andela-challenge-2.herokuapp.com/</a>
 
 # End Points
 

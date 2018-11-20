@@ -15,6 +15,7 @@ app.use(bodyParser.urlencoded({extended:true}));  // to support encoded bodies
 
 app.use('/api', router);
 
+//get the html file 
 app.get('/', function(req, res){
 	res.sendFile(path.join(__dirname + '/api/index.html'));
 })
